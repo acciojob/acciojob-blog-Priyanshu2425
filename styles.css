@@ -1,9 +1,8 @@
-/*  your css code here. If applicable */
-body div{
-	width: 100%;
-	text-align: center;
-}
-
 img{
 	height: 200px;
+}
+
+#div{
+	width: 100%;
+	text-align: center;
 }
